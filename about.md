@@ -4,12 +4,10 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I have worked in some facet of IT for the last 18+ years. I consider myself a coder of convenience.  But I hope to one day be able to develop simple apps to automate my life so I can do fun things.  Current personal blog can be read at [braindrool.dewser.com](http://braindrool.dewser.com/)
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+I maintain my professional blog at [Nutmeg InfoSec](https://www.nutmeginfosec.com).  Topics include mostly Information Security.
 
 You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+{% include icon-github.html username="TheDewser" %} /
+[jekyll](https://github.com/TheDewser)
