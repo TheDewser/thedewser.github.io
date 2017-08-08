@@ -8,6 +8,4 @@ I have worked in some facet of IT for the last 18+ years. I consider myself a co
 
 I maintain my professional blog at [Nutmeg InfoSec](https://www.nutmeginfosec.com).  Topics include mostly Information Security.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="TheDewser" %} /
-[jekyll](https://github.com/TheDewser)
+
