@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Need to use GIT more!"
+title:  "Need to use Git more!"
 date:   2017-08-08 09:41:00 +0000
 categories: Coding, Learning
 ---
